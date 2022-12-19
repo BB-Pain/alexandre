@@ -1,4 +1,4 @@
 # NSI
 
 * All File :
-  -[NSI](https://github.com/hydroft1/NSI)
+  - [NSI](https://github.com/hydroft1/NSI)
